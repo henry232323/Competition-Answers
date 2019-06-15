@@ -5,7 +5,7 @@ This file (starter_code.py) outlines basic structures for problems and defines s
 
 The strategy is as follows:
   1. Python is recommended over Java 100%
-  2. Whoever is the most familiar with SYNTAX of the language should be the one writing the code
+  2. Whoever is the most familiar with SYNTAX of the language and standard library should be the one writing the code
   3. The other two members will focus only on problems, and when needed help the coder
   4. Each team member will be given a set of problems, ~1-10 for the least experienced,
 	~8-18 for the next most experienced, and ~16-24 for the most experienced.
