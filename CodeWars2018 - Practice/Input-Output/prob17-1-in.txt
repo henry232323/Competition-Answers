@@ -1,0 +1,20 @@
+RECV LightningDust 3
+RECV SmartFlatRocks 3
+LOAD C
+RECV ApplePies 3
+LOAD B
+RECV VerySmallRocks 2
+LOAD A
+RECV CommandBlocks 2
+LOAD C
+RECV StickyPistons 4
+RECV LargeHadrons 3
+LOAD A
+XFER B C
+LOAD B
+XFER A C
+SEND C
+LOAD B
+XFER A B
+SEND B
+DONE

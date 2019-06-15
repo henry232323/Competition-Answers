@@ -1,0 +1,9 @@
+VACTRAIN 1
+CommandBlocks 2
+SmartFlatRocks 3
+VerySmallRocks 2
+LightningDust 3
+VACTRAIN 2
+ApplePies 3
+LargeHadrons 3
+StickyPistons 4

@@ -1,0 +1,1 @@
+print(f"Salutations, {input()}! We are the Fighting Sandcrabs from Port Lavaca HS!")

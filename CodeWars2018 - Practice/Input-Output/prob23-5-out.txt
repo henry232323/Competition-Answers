@@ -1,0 +1,15 @@
+l to I takes 24
+D to I takes 32
+D to T takes 11
+T to I takes 21
+T to I takes 21
+h to I takes 22
+I to G takes 23
+T to n takes 10
+T to D takes 11
+T to I takes 21
+T to f takes 22
+T to G takes 2
+T to I takes 21
+I to D takes 32
+D to I takes 32

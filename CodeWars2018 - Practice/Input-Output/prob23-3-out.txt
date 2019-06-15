@@ -1,0 +1,12 @@
+P to a takes 5
+A to o takes 3
+P to a takes 5
+N to P takes 3
+a to i takes 3
+F to t takes 3
+F to x takes 3
+N to t takes 1
+a to C takes 4
+v to F takes 5
+x to v takes 4
+v to P takes 6

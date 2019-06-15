@@ -1,0 +1,11 @@
+d to A takes 1
+g to A takes 4
+I to o takes 4
+e to Q takes 3
+B to i takes 6
+o to d takes 2
+p to N takes 15
+A to d takes 1
+d to W takes 2
+V to i takes 8
+o to i takes 7

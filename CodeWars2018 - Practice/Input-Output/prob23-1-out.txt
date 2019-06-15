@@ -1,0 +1,8 @@
+A to a takes 4
+o to o takes 0
+W to d takes 8
+W to d takes 8
+g to i takes 1
+B to z takes 3
+B to P takes 2
+i to i takes 0
