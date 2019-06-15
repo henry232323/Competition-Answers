@@ -1,0 +1,16 @@
+L to E takes 11
+E to E takes 0
+i to r takes 2
+X to u takes 4
+z to r takes 9
+C to z takes 8
+n to r takes 5
+z to u takes 1
+S to u takes 9
+N to z takes 8
+i to L takes 7
+u to i takes 6
+r to u takes 8
+C to r takes 1
+z to i takes 7
+S to z takes 10

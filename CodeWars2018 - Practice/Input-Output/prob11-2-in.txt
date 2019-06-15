@@ -1,0 +1,29 @@
+4
+9
+8 Fenchurch
+-39 Colin
+4 Random Dent
+4 Zaphod Beeblebrox the Fourth
+-1590 Prostetnic Vogon Jeltz
+2 Arthur Dent
+2 Wonko the Sane
+2 Zarquon
+2 Ford Prefect
+9
+2 Arthur Dent
+2 Wonko the Sane
+2 Zarquon
+2 Ford Prefect
+-1590 Prostetnic Vogon Jeltz
+4 Random Dent
+4 Zaphod Beeblebrox the Fourth
+-39 Colin
+9 Fenchurch
+4
+1 Benjy Mouse
+0 Arthur Dent
+1 Ford Prefect
+0 Frankie Mouse
+2
+-100000 Colin
+-100000 Prostetnic Vogon Jeltz

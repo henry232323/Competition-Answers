@@ -1,0 +1,17 @@
+5 6
+PROGRAM
+COMPILER
+ERROR
+SYNTAX
+OBJECT
+     L I P M O C
+    E R P O R Y A
+   X A O B J A C T
+  R E L I P M O C N
+ S I E R R O R E T Y
+C Y P M O R Y J X O S
+ S N Y G O G B L E R
+  U T R R C O M P U
+   N A R E R R O W
+    M X G I C P U
+     L S J N X A

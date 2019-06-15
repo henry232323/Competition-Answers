@@ -1,0 +1,34 @@
+RECV LightningDust 2
+RECV SpicedApples 4
+LOAD A
+RECV 8InchPieTins 1
+RECV RaspberrySorbet 2
+LOAD B
+LOAD C
+RECV GreenPushPins 4
+LOAD C
+RECV LiquidDiet 1
+LOAD B
+XFER A B
+RECV WoodPencils 1
+SEND B
+RECV GraphicsProcessors 3
+LOAD A
+RECV EmptyBoxes 4
+RECV BismuthSubsalicylate 3
+XFER C B
+LOAD C
+RECV PokemonCards 2
+LOAD C
+RECV DivingBoards 2
+RECV BulkWhiteGravel 4
+LOAD C
+XFER A C
+SEND C
+LOAD C
+LOAD A
+LOAD B
+XFER A B
+LOAD B
+SEND B
+DONE
